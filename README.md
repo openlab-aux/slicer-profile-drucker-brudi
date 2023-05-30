@@ -1,4 +1,4 @@
-# Slider Profile for Drucker Brudi
+# Slicer Profile for Drucker Brudi
 
 These files go into `~/.config/PrusaSlicer/` with the same folder structure.
 
